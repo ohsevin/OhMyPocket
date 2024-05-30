@@ -1,4 +1,4 @@
-Django==1.8
+Django==3.2.25
 Fabric==1.10.1
 Flask==0.10.1
 Jinja2==2.7.3
